@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "745411701972",
+    "project_id": "fir-basics-41306",
+    "storage_bucket": "fir-basics-41306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745411701972:android:fc0d990a9108a307cf9f41",
+        "android_client_info": {
+          "package_name": "com.example.firebasic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbz3-k9JUlfSoNMxcZco2HhoxzNgtLwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745411701972:android:c7e3ee474c51880dcf9f41",
+        "android_client_info": {
+          "package_name": "com.example.selfstudyplanning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbz3-k9JUlfSoNMxcZco2HhoxzNgtLwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745411701972:android:a99d88d47c21a47bcf9f41",
+        "android_client_info": {
+          "package_name": "com.example.st10053116opsc7311ice2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbz3-k9JUlfSoNMxcZco2HhoxzNgtLwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

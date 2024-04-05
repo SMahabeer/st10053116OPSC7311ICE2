@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">st10053116 OPSC7311 ICE 2</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_in">Don\'t have an account?</string>
+    <string name="confirm_password">ConfirmPassword</string>
+    <string name="already_have_an_account_login">Already have an account?</string>
+    <string name="signed">Sign in</string>
+    <string name="qualification">Qualification:</string>
+    <string name="enter_qualification">Enter Qualification</string>
+    <string name="student_number">Student Number:</string>
+    <string name="enter_student_number">Enter Student Number</string>
+    <string name="qualification_year">Qualification Year:</string>
+    <string name="enter_qualification_year">Enter Qualification Year</string>
+    <string name="campus_name">Campus Name:</string>
+    <string name="enter_campus_name">Enter Campus Name</string>
+    <string name="create_my_profile">Create my profile</string>
+</resources>
